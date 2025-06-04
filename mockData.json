@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "soilPh": 6.5,
+      "temperature": 25,
+      "humidity": 60,
+      "cropType": "گوجه‌فرنگی",
+      "timestamp": "2025-06-04T07:00:00"
+    },
+    {
+      "id": 2,
+      "soilPh": "7",
+      "temperature": "25",
+      "humidity": "56",
+      "cropType": "خیار",
+      "timestamp": "2025-06-04T06:29:25.963Z"
+    }
+  ],
+  "recommendations": []
+}
