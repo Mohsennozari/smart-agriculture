@@ -9,13 +9,32 @@
       "timestamp": "2025-06-04T07:00:00"
     },
     {
-      "id": 2,
-      "soilPh": "7",
-      "temperature": "25",
-      "humidity": "56",
+      "id": "4a5b",
+      "soilPh": 8,
+      "temperature": 40,
+      "humidity": 50,
       "cropType": "خیار",
-      "timestamp": "2025-06-04T06:29:25.963Z"
+      "timestamp": "2025-06-04T08:02:05.425Z"
+    },
+    {
+      "id": "7352",
+      "soilPh": 7,
+      "temperature": 34,
+      "humidity": 80,
+      "cropType": "فلفل",
+      "timestamp": "2025-06-04T08:19:45.436Z"
     }
   ],
-  "recommendations": []
+  "recommendations": [
+    {
+      "id": 1,
+      "text": "خاک اسیدی است، آهک اضافه کنید.",
+      "timestamp": "2025-06-04T08:30:00"
+    },
+    {
+      "id": "a5b5",
+      "text": "اوضاع دمایی گوجه فرنگی اصلاح شود\n",
+      "timestamp": "2025-06-04T08:03:05.095Z"
+    }
+  ]
 }
